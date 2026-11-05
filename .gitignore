@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/
+generated/*
+!generated/sample/
+*.pyc
+.DS_Store
+
+# Personal IDE state
+.idea/workspace.xml
